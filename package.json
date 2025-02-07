@@ -21,7 +21,6 @@
     "body-parser": "^1.20.2",
     "cloudinary": "^1.41.3",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
     "joi": "^17.9.2",
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.30.1",
